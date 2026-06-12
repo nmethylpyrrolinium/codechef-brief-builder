@@ -2,6 +2,11 @@
 
 This repository is a self-contained, lightweight tool designed for the **Editorial Lead** of the CodeChef ZHCET Chapter. It allows you to maintain faculty briefing documents in Markdown and automatically compile them into print-ready, professional A4 PDFs.
 
+> [!IMPORTANT]
+> **🎉 Congratulations on becoming the Editorial Lead!**
+>
+> Welcome to the team! You have inherited a key leadership role in managing our chapter's publications, contest editorials, and event reporting. To help you succeed and save you time, this project was built to automate the tedious process of writing, formatting, and rendering faculty briefings. You can focus on the content—the tool handles the typesetting for you.
+
 ---
 
 ## 📥 Getting Started (Cloning & Offline Use)
